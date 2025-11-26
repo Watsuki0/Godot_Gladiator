@@ -1,4 +1,4 @@
-## Projet Gladiator survival like
+# Projet Gladiator survivor like
 
-# Ce repository est à but de partage envers mes élèves
+## Ce repository est à but de partage envers mes élèves
 
