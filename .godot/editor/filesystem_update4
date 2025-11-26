@@ -1,0 +1,11 @@
+res://Scenes/player.tscn
+res://Scripts/npc.gd
+res://Scenes/npc.tscn
+res://Scripts/player.gd
+res://Scripts/enemy_spawner.gd
+res://Scenes/MainScene.tscn
+res://Scripts/label.gd
+res://Scripts/game_manager.gd
+res://Scenes/level_up_ui.tscn
+res://Scripts/level_up_ui.gd
+res://Scripts/timer_label.gd

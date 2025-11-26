@@ -1,0 +1,38 @@
+[gd_scene load_steps=2 format=3 uid="uid://b1tvcg4hpt78o"]
+
+[ext_resource type="Script" path="res://Scripts/level_up_ui.gd" id="1_k7eso"]
+
+[node name="LevelUpUI" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_k7eso")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 0
+offset_right = 1152.0
+offset_bottom = 648.0
+color = Color(0.194349, 0.194349, 0.194349, 1)
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 0
+offset_left = 288.0
+offset_top = 162.0
+offset_right = 864.0
+offset_bottom = 486.0
+alignment = 1
+
+[node name="card1" type="Button" parent="HBoxContainer"]
+custom_minimum_size = Vector2(200, 200)
+layout_mode = 2
+
+[node name="card2" type="Button" parent="HBoxContainer"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+
+[node name="card3" type="Button" parent="HBoxContainer"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2

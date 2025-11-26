@@ -1,0 +1,14 @@
+ColorRect
+Marker2D
+Node2D
+Label
+CanvasLayer
+Button
+HBoxContainer
+Node
+CharacterBody2D
+ReferenceRect
+ProgressBar
+NavigationAgent2D
+NavigationRegion2D
+Timer

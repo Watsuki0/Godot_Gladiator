@@ -1,0 +1,27 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1763506981
+Gladiator-Sprite Sheet.png::CompressedTexture2D/CompressedTexture2D::805533872623008108::1762164574::1762328233::1::::<><><>0<>0<>69e16dd065f0eaf8bf69112ab555dc9b<>res://.godot/imported/Gladiator-Sprite Sheet.png-fcabc30f79af89f8f5dc582ebff1f2c6.ctex::
+Isometric Forest Tileset_Background.png::CompressedTexture2D/CompressedTexture2D::1624096850615387109::1762164574::1762328234::1::::<><><>0<>0<>07ce595536e3a3d1a6ce9fc7d1982d12<>res://.godot/imported/Isometric Forest Tileset_Background.png-4151817e10548fb60125a211f70b1f5e.ctex::
+::res://Pictures/::1763503827
+Background.jpg::CompressedTexture2D/CompressedTexture2D::1592540377789694533::1763503543::1763503543::1::::<><><>0<>0<>a81502b872c5fc958d714da7bb5a26e4<>res://.godot/imported/Background.jpg-cc3e0fe47349efe972f74acf5c600524.ctex::
+::res://Pictures/Tiles/::1763503873
+Top-Down Old Abandoned Farm_Ground 02.png::CompressedTexture2D/CompressedTexture2D::3155220383213371977::1763503850::1763503850::1::::<><><>0<>0<>0c64332f1fea4f1172574ba678178daa<>res://.godot/imported/Top-Down Old Abandoned Farm_Ground 02.png-67265722b6581862e42506106a87c3d3.ctex::
+Top-Down Old Abandoned Farm_Ground 04.png::CompressedTexture2D/CompressedTexture2D::6917030309597187661::1763503846::1763503846::1::::<><><>0<>0<>fda4a7f36e81dc9bc95e24da4be754b2<>res://.godot/imported/Top-Down Old Abandoned Farm_Ground 04.png-fd95c1fe56090b7c1be34a332e8740fb.ctex::
+Top-Down Old Abandoned Farm_Ground 06.png::CompressedTexture2D/CompressedTexture2D::5063017615799102028::1763503865::1763503865::1::::<><><>0<>0<>0617e9ee96e051004c3c763c49629fef<>res://.godot/imported/Top-Down Old Abandoned Farm_Ground 06.png-b4fb1ce93bec1998780a97aadf9de466.ctex::
+Top-Down Old Abandoned Farm_Ground 08.png::CompressedTexture2D/CompressedTexture2D::3254318330123392251::1763503853::1763503853::1::::<><><>0<>0<>4795118dca96c71b6cc5ae7c2e490d7c<>res://.godot/imported/Top-Down Old Abandoned Farm_Ground 08.png-74e30f9bca669fc96065e9d139bf21e3.ctex::
+Top-Down Old Abandoned Farm_Ground 10.png::CompressedTexture2D/CompressedTexture2D::6324989814028082497::1763503861::1763503862::1::::<><><>0<>0<>0a7286be88a3354e8f673bc1930a1bf7<>res://.godot/imported/Top-Down Old Abandoned Farm_Ground 10.png-788be3717b4b739ec964220b18039790.ctex::
+Top-Down Old Abandoned Farm_Ground 12.png::CompressedTexture2D/CompressedTexture2D::1354110351357018219::1763503858::1763503858::1::::<><><>0<>0<>e319b88e4fcf0cae6c9df89ac584b1c0<>res://.godot/imported/Top-Down Old Abandoned Farm_Ground 12.png-1ec160fd7a4d67e060c2bbdd7c1c486e.ctex::
+Top-Down Old Abandoned Farm_Ground 14.png::CompressedTexture2D/CompressedTexture2D::3844341689004894162::1763503832::1763503832::1::::<><><>0<>0<>3df91463b2543dac9dfff1ac59aea170<>res://.godot/imported/Top-Down Old Abandoned Farm_Ground 14.png-7ce62d022edf7efd1a0855d8d6c3f739.ctex::
+Top-Down Old Abandoned Farm_Ground 16.png::CompressedTexture2D/CompressedTexture2D::1446065151045155040::1763503870::1763503870::1::::<><><>0<>0<>3d38a6c60a0fb75339ddb508e7e94871<>res://.godot/imported/Top-Down Old Abandoned Farm_Ground 16.png-6acf73d8614233c0f58758b5ca1cb484.ctex::
+Top-Down Old Abandoned Farm_Ground 18.png::CompressedTexture2D/CompressedTexture2D::5903008642467825779::1763503873::1763503873::1::::<><><>0<>0<>efbd55ceb884252440fc9e6ef4313742<>res://.godot/imported/Top-Down Old Abandoned Farm_Ground 18.png-93af1b775f9df2c60d16d599f126b451.ctex::
+Top-Down Old Abandoned Farm_Ground 23.png::CompressedTexture2D/CompressedTexture2D::3848325211325580676::1763503840::1763503840::1::::<><><>0<>0<>14417b29ce495b766feab1d26abbccd2<>res://.godot/imported/Top-Down Old Abandoned Farm_Ground 23.png-4e4256815d635fc8bb207753ca3217d4.ctex::
+::res://Scenes/::1763506981
+MainScene.tscn::PackedScene/PackedScene::5987151494599560049::1763506972::0::1::::<><><>0<>0<><>::uid://wxo535pkw4mj::::res://Pictures/Background.jpg<>uid://c1gj2pfuo4pwu::::res://TileSet/Map.png<>uid://clf2g4f8aiih5::::res://Scenes/player.tscn<>uid://60uaetrwpxpr::::res://Scripts/enemy_spawner.gd
+npc.tscn::PackedScene/PackedScene::3574869643706562471::1763506979::0::1::::<><><>0<>0<><>::uid://cxke5wlb7m2rj::::res://Scenes/npc.gd<>uid://lqha4effcse3::::res://Gladiator-Sprite Sheet.png
+player.tscn::PackedScene::5556892142143850316::1763506991::0::1::::<><><>0<>0<><>::uid://blmtl8afyl720::::res://Scripts/character_body_2d.gd<>uid://lqha4effcse3::::res://Gladiator-Sprite Sheet.png
+::res://Scripts/::1763506981
+character_body_2d.gd::GDScript::3184445496885965479::1763506752::0::1::::<>CharacterBody2D<><>0<>0<><>::
+enemy_spawner.gd::GDScript/GDScript::2228678176732930339::1763506972::0::1::::<>Node2D<><>0<>0<><>::
+npc.gd::GDScript::6408126162985010807::1763506697::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://TileSet/::1763504068
+Map.png::CompressedTexture2D/CompressedTexture2D::6610733034372582468::1763504024::1763504024::1::::<><><>0<>0<>19d8e6375d8673b0625ee12beb80643b<>res://.godot/imported/Map.png-a03c7688f4a3f378f30038e013d25625.ctex::

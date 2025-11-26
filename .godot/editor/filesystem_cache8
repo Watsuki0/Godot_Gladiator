@@ -1,0 +1,27 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1764057651
+Gladiator-Sprite Sheet.png::CompressedTexture2D::805533872623008108::1762164574::1762328233::1::::<><>::
+Isometric Forest Tileset_Background.png::CompressedTexture2D::1624096850615387109::1762164574::1762328234::1::::<><>::
+::res://Pictures/::1763555635
+Background.jpg::CompressedTexture2D::1592540377789694533::1763503543::1763555635::1::::<><>::
+::res://Pictures/Tiles/::1763555635
+Top-Down Old Abandoned Farm_Ground 02.png::CompressedTexture2D::3155220383213371977::1763503850::1763555635::1::::<><>::
+Top-Down Old Abandoned Farm_Ground 04.png::CompressedTexture2D::6917030309597187661::1763503846::1763555635::1::::<><>::
+Top-Down Old Abandoned Farm_Ground 06.png::CompressedTexture2D::5063017615799102028::1763503865::1763555635::1::::<><>::
+Top-Down Old Abandoned Farm_Ground 08.png::CompressedTexture2D::3254318330123392251::1763503853::1763555635::1::::<><>::
+Top-Down Old Abandoned Farm_Ground 10.png::CompressedTexture2D::6324989814028082497::1763503861::1763555635::1::::<><>::
+Top-Down Old Abandoned Farm_Ground 12.png::CompressedTexture2D::1354110351357018219::1763503858::1763555635::1::::<><>::
+Top-Down Old Abandoned Farm_Ground 14.png::CompressedTexture2D::3844341689004894162::1763503832::1763555635::1::::<><>::
+Top-Down Old Abandoned Farm_Ground 16.png::CompressedTexture2D::1446065151045155040::1763503870::1763555635::1::::<><>::
+Top-Down Old Abandoned Farm_Ground 18.png::CompressedTexture2D::5903008642467825779::1763503873::1763555635::1::::<><>::
+Top-Down Old Abandoned Farm_Ground 23.png::CompressedTexture2D::3848325211325580676::1763503840::1763555635::1::::<><>::
+::res://Scenes/::1763565606
+MainScene.tscn::PackedScene::5987151494599560049::1763565606::0::1::::<><>::uid://wxo535pkw4mj::::res://Pictures/Background.jpg<>uid://c1gj2pfuo4pwu::::res://TileSet/Map.png<>uid://clf2g4f8aiih5::::res://Scenes/player.tscn<>res://Scripts/enemy_spawner.gd<>uid://bq6xt0ljtjc7h::::res://Scenes/npc.tscn
+npc.tscn::PackedScene::3574869643706562471::1763565606::0::1::::<><>::res://Scripts/npc.gd<>uid://lqha4effcse3::::res://Gladiator-Sprite Sheet.png
+player.tscn::PackedScene::5556892142143850316::1763565606::0::1::::<><>::res://Scripts/player.gd<>uid://lqha4effcse3::::res://Gladiator-Sprite Sheet.png
+::res://Scripts/::1763565604
+enemy_spawner.gd::GDScript::-1::1763565378::0::1::::<>Node2D<>::
+npc.gd::GDScript::-1::1763565604::0::1::::<>CharacterBody2D<>::
+player.gd::GDScript::-1::1763555742::0::1::::<>CharacterBody2D<>::
+::res://TileSet/::1763555635
+Map.png::CompressedTexture2D::6610733034372582468::1763504024::1763555635::1::::<><>::
